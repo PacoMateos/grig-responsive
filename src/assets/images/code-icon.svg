@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="48"
+   viewBox="0 -960 960 960"
+   width="48"
+   version="1.1"
+   id="svg4"
+   sodipodi:docname="code-icon.svg"
+   inkscape:version="1.1 (c68e22c387, 2021-05-23)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs8" />
+  <sodipodi:namedview
+     id="namedview6"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="true"
+     inkscape:zoom="5.7464428"
+     inkscape:cx="76.134056"
+     inkscape:cy="28.104343"
+     inkscape:window-width="1920"
+     inkscape:window-height="1051"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg4">
+    <inkscape:grid
+       type="xygrid"
+       id="grid24288"
+       spacingx="160"
+       spacingy="160" />
+  </sodipodi:namedview>
+  <path
+     id="path2-9-8-9"
+     style="stroke-width:0.0496226"
+     d="M 24 0 C 23.157875 1e-06 22.455951 0.28037887 21.894531 0.84179688 L 0.84179688 21.894531 C 0.28038188 22.455947 1.4802974e-16 23.157877 0 24 C 0 24.842122 0.28037687 25.54405 0.84179688 26.105469 L 21.894531 47.158203 C 22.455946 47.719618 23.15788 47.999998 24 48 C 24.842125 48.000003 25.544054 47.719619 26.105469 47.158203 L 47.158203 26.105469 C 47.719618 25.544053 48 24.842128 48 24 C 48 23.157877 47.719618 22.455946 47.158203 21.894531 L 26.105469 0.84179688 C 25.544054 0.28038187 24.842125 2.5e-06 24 0 z M 17.955078 13.90625 C 18.721935 13.90625 19.490519 14.199504 20.078125 14.787109 C 21.253336 15.962321 21.253336 17.854085 20.078125 19.029297 L 15.128906 23.980469 L 20.119141 28.970703 C 21.294352 30.145915 21.294352 32.037679 20.119141 33.212891 C 18.943929 34.388102 17.050211 34.388102 15.875 33.212891 L 8.8046875 26.142578 C 8.797352 26.135243 8.7963065 26.124578 8.7890625 26.117188 C 8.7816714 26.109943 8.7710074 26.108898 8.7636719 26.101562 C 7.5884604 24.926351 7.5884604 23.032633 8.7636719 21.857422 L 15.833984 14.787109 C 16.42159 14.199504 17.188221 13.90625 17.955078 13.90625 z M 30.044922 13.947266 C 30.811779 13.947266 31.57841 14.240519 32.166016 14.828125 L 39.195312 21.857422 L 39.236328 21.898438 C 40.41154 23.073649 40.41154 24.967367 39.236328 26.142578 C 39.164178 26.214729 39.069411 26.241396 38.992188 26.304688 L 32.125 33.171875 C 30.949789 34.347086 29.056071 34.347086 27.880859 33.171875 C 26.705648 31.996664 26.705648 30.104899 27.880859 28.929688 L 32.832031 23.980469 L 27.921875 19.070312 C 26.746664 17.895101 26.746664 16.003336 27.921875 14.828125 C 28.509481 14.240519 29.278065 13.947266 30.044922 13.947266 z "
+     transform="matrix(20,0,0,20,0,-960)" />
+  <g
+     id="g25444"
+     transform="translate(-106.39107)" />
+  <g
+     id="g25440"
+     transform="translate(105.22005)" />
+  <text
+     xml:space="preserve"
+     style="font-size:560px;line-height:1;font-family:'Rockwell Condensed';-inkscape-font-specification:'Rockwell Condensed, ';font-variant-ligatures:none;stroke-width:20"
+     x="1095.4706"
+     y="-287.63672"
+     id="text27527"><tspan
+       sodipodi:role="line"
+       id="tspan27525"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:560px;font-family:Consolas;-inkscape-font-specification:Consolas;stroke-width:20"
+       x="1095.4706"
+       y="-287.63672">fm-DOCS</tspan></text>
+</svg>
